@@ -1,0 +1,7 @@
+*~
+*.asm
+*.bin
+*.elf
+*.map
+*.o
+mksunxi
